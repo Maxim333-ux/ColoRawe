@@ -1,0 +1,24 @@
+/* header */
+header{
+    background-color: #012D63;
+  
+}
+.hero-buton{
+background-color: #012D63;
+color: #C7C7C7;
+border: 0;
+margin-left: 29px;
+margin-bottom: 33px;
+margin-top: 30px;
+}
+.hero-buton:hover,
+.hero-buton:focus{
+    color: #ffffff;
+}
+.hero-img{
+    margin-left: 168px;
+   margin-right: 152px;
+    margin-top: 16px;
+    margin-bottom: 17px;
+   
+}
