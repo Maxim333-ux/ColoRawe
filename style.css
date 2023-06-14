@@ -1,24 +1,86 @@
-/* header */
-header{
-    background-color: #012D63;
-  
+ul,
+p,
+h1,
+h2,
+h3,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
-.hero-buton{
-background-color: #012D63;
-color: #C7C7C7;
-border: 0;
-margin-left: 29px;
-margin-bottom: 33px;
-margin-top: 30px;
+/* header */
+
+header {
+  background-color: #012d63;
+}
+.hero-buton {
+  background-color: #012d63;
+  color: #c7c7c7;
+  border: 0;
+  margin-left: 29px;
+  margin-bottom: 33px;
+  margin-top: 30px;
 }
 .hero-buton:hover,
-.hero-buton:focus{
-    color: #ffffff;
+.hero-buton:focus {
+  color: #ffffff;
 }
-.hero-img{
-    margin-left: 168px;
-   margin-right: 152px;
-    margin-top: 16px;
-    margin-bottom: 17px;
-   
+.hero-img {
+  margin-top: 17px;
+  margin-right: 152px;
+}
+ul {
+  display: flex;
+}
+
+/* main */
+/* hero */
+.section-hero {
+  color: #fff;
+  background-color: #012d63;
+  background-image: url(/img/Grou37\(1\).png);
+  background-size: cover;
+  padding-bottom: 183px;
+  padding-top: 94px;
+}
+.buton-calc {
+  background: #8e32c6;
+  border-radius: 10px;
+  padding: 20px 61px 20px 61px;
+  color: #fff;
+}
+.hero-list {
+}
+.container {
+  width: 1110px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.buton-ua {
+  margin-left: 73px;
+}
+.titr-img {
+  margin-left: 8px;
+}
+.cr {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 144px;
+}
+.yd {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+}
+.gh {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+.buton-calc {
+  margin-top: 41px;
 }
