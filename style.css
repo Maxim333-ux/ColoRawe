@@ -14,6 +14,7 @@ header {
   background-color: #012d63;
 }
 .hero-buton {
+  font-family: "Roboto";
   background-color: #012d63;
   color: #c7c7c7;
   border: 0;
@@ -44,6 +45,7 @@ ul {
   padding-top: 94px;
 }
 .buton-calc {
+  font-family: "Roboto";
   background: #8e32c6;
   border-radius: 10px;
   padding: 20px 61px 20px 61px;
@@ -71,16 +73,55 @@ ul {
   font-size: 144px;
 }
 .yd {
+  font-family: "Playfair Display";
   font-style: normal;
   font-weight: 400;
   font-size: 72px;
 }
+.ghj {
+ 
+  color: #ffffff;
+  font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+}
+.buton-calc {
+  margin-top: 41px;
+}
+.section-main {
+  background-image: url(/img/Group\ 8\ 1.png) ;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 105px;
+  padding-top: 105px;
+}
 .gh {
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
 }
-.buton-calc {
-  margin-top: 41px;
+.main-div {
+  border: 5px solid #8e32c6;
+  padding: 25px 50px 25px 50px;
 }
+
+
+
+
+.main-ul{
+  justify-content: space-between;
+  
+
+}
+.hr-li{
+  border-right:1px solid #ffffff
+}
+
+
+  
+
