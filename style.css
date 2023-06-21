@@ -50,6 +50,7 @@ ul {
   border-radius: 10px;
   padding: 20px 61px 20px 61px;
   color: #fff;
+  margin-bottom: 37px;
 }
 .hero-list {
 }
@@ -231,4 +232,51 @@ color: #FFFFFF;
 }
 .div-name{
   margin-left: 5px;
+}
+.container-order{
+ 
+  width: 1110px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  text-align: center;}
+.section-order{
+  background-image: url(/img/Group\ 2\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.order{
+  font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+color: #FFFFFF;
+}
+.inputi{
+  background: #FFFFFF;
+border-radius: 50px;
+width: 690px;
+height: 60px;
+margin-top: 33px;
+}
+.input{
+  background: #FFFFFF;
+  border-radius: 50px;
+  width: 580px;
+height: 50px;
+
+}
+input{
+  padding-left: 24px;
+  margin-bottom: 19px;
+  color: #959595;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+
 }
