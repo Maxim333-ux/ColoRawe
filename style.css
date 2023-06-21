@@ -47,7 +47,7 @@ ul {
 .buton-calc {
   font-family: "Roboto";
   background: #8e32c6;
-  border-radius: 10px;
+  border-radius: 16px;
   padding: 20px 61px 20px 61px;
   color: #fff;
   margin-bottom: 37px;
@@ -67,6 +67,10 @@ ul {
 }
 .titr-img {
   margin-left: 8px;
+  height: 120px;
+}
+.titre-img{
+  margin-left: 39px;
 }
 .cr {
   font-family: "Playfair Display";
@@ -159,7 +163,7 @@ border-radius: 15px;
 width: 255px;
 padding: 49px 18px 29px 9px;
 height: 292px;
-
+margin-bottom: 115px;
  }
  .color-liza{
   background: linear-gradient(136.55deg, #FF68B4 0%, #FF45E1 26.04%, #CE3AFF 62.84%, #8961FF 100%);
@@ -169,6 +173,7 @@ width: 255px;
 
 padding: 49px 18px 29px 9px;
 height: 292px;
+margin-bottom: 115px;
  }
  .color-tom{
   background: linear-gradient(142.67deg, #FFE128 0%, #FF9B5C 30.21%, #FF8381 63.29%, #FF5489 100%);
@@ -177,17 +182,19 @@ border-radius: 15px;
 width: 255px;
 padding: 49px 18px 29px 9px;
 height: 292px;
+margin-bottom: 115px;
  }
 
 .container-reviews{
   width: 1110px;
+  
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
-  
-  padding-bottom: 114px;
+
+
   justify-content: space-around;
   padding-top: 24px;
 }
@@ -279,4 +286,75 @@ font-weight: 400;
 font-size: 28px;
 line-height: 33px;
 
+border-radius: 0px;
+}
+.png{
+  margin-right: 18px;
+ position:absolute;
+ flex: content;
+ margin-top: 51px;
+}
+footer{
+
+}
+.div-footer{
+  width: 1110px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFFFFF;
+
+padding-top:45px ;
+}
+.section-footer{
+  background-color: #021635;
+}
+
+
+.p-footer{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+padding-bottom: 10px;
+}
+.a-footer{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-decoration-line: underline;
+padding-bottom: 10px;
+color: #FFFFFF;
+display: inline-block;
+
+}
+.li-footer-2{
+  display: flow-root;
+  text-align: right;
+ margin-bottom: 20px;
+margin-left: auto;
+
+}
+.ul-footer{
+  border-bottom: 1px solid #9B9B9B;
+  margin-bottom: 24px;
+}
+.p-footer-2{
+
+color: #FFF;
+font-size: 24px;
+font-family: PT Serif;
+margin-right: 26px;
+
+}
+.p-footer-3{
+  font-size: 18px;
+font-family: Roboto;
+}
+.p{
+  margin-bottom: 7px;
 }
