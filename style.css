@@ -39,7 +39,7 @@ ul {
 .section-hero {
   color: #fff;
   background-color: #012d63;
-  background-image: url(/img/Grou37\(1\).png);
+  background-image: url(./img/Grou37\(1\).png);
   background-size: cover;
   padding-bottom: 183px;
   padding-top: 94px;
@@ -98,7 +98,7 @@ text-align: center;
   margin-top: 41px;
 }
 .section-main {
-  background-image: url(/img/Group\ 8\ 1.png) ;
+  background-image: url(./img/Group\ 8\ 1.png) ;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   padding-bottom: 105px;
@@ -139,7 +139,7 @@ color: #FFFFFF;
 
 }
 .section{
-  background-image: url(/img/Group\ 6\ 1.png);
+  background-image: url(./img/Group\ 6\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
  
@@ -250,7 +250,7 @@ color: #FFFFFF;
   
   text-align: center;}
 .section-order{
-  background-image: url(/img/Group\ 2\ 1.png);
+  background-image: url(./img/Group\ 2\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
