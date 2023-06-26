@@ -8,7 +8,7 @@ li {
   padding: 0;
   margin: 0;
 }
-/* header */
+
 
 header {
   background-color: #012d63;
@@ -34,8 +34,7 @@ ul {
   display: flex;
 }
 
-/* main */
-/* hero */
+
 .section-hero {
   color: #fff;
   background-color: #012d63;
@@ -286,7 +285,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 28px;
 line-height: 33px;
-
+border: none;
 border-radius: 0px;
 }
 .png{
