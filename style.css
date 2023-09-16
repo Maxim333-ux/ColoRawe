@@ -370,3 +370,6 @@ input {
 .order-ul {
   display: flow-root;
 }
+.hr-li {
+  padding-right: 40px;
+}
